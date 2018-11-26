@@ -1,0 +1,39 @@
+
+@font-face {
+   font-family: AvenirNextRegular;
+   src: url(AvenirNext-Regular.ttf);
+}
+
+
+@font-face {
+   font-family: AvenirNextBold;
+   src: url(AvenirNext-Bold.ttf);
+}
+
+
+@font-face {
+   font-family: AvenirNextDemiBold;
+   src: url(AvenirNext-DemiBold.ttf);
+}
+
+
+@font-face {
+   font-family: NexaBold;
+   src: url(Nexa-Bold.ttf);
+}
+
+
+@font-face {
+   font-family: OpenSansRegular;
+   src: url(OpenSans-Regular.ttf);
+}
+
+
+@font-face {
+   font-family: OpenSansBold;
+   src: url(OpenSans-Bold.ttf);
+}
+
+
+
+
